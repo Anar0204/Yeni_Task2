@@ -1,3 +1,4 @@
 GroupName:PB305
 GroupSize:15
-
+GroupAvgPoint:89
+TeacherName:Ulvi
